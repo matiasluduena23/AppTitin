@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Camaras>
+  <camara>
+    <precio>40</precio>
+    <tipo>CAM6</tipo>
+  </camara>
+  <camara>
+    <precio>108</precio>
+    <tipo>CAM9</tipo>
+  </camara>
+  <camara>
+    <precio>121</precio>
+    <tipo>CAM12</tipo>
+  </camara>
+  <camara>
+    <precio>70</precio>
+    <tipo>CAM16</tipo>
+  </camara>
+  <camara>
+    <precio>80</precio>
+    <tipo>CAM24</tipo>
+  </camara>
+  <camara>
+    <precio>3555</precio>
+    <tipo>12CAM</tipo>
+  </camara>
+</Camaras>
